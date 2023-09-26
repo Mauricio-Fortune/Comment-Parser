@@ -1,7 +1,6 @@
 /************************* 
 *Mauricio Fortune
-*CPSC 2311 F22 Section 01
-*mafortu@g.clemson.edu
+*CPSC 2311 
 *************************/ 
 
 #ifndef LAB3FGETC_H
